@@ -406,7 +406,7 @@ public class MainMenu extends JPanel {
 
 		@Override
 		public void actionPerformed(ActionEvent e) {
-			new HelpFrame();
+//			new HelpFrame();
 		}
 
 	}
