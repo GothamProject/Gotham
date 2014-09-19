@@ -4,10 +4,8 @@ Gotham
 A Java Go game with ancient rules integration, SGF support and AI mechanics
 
 #Usage
-- Play Go in a graphical interface
-launch run/gui/GraphicalGo.java
-- Play Go in command line
-launch run/console/RunConsole.java
+- To play Go in a graphical interface, launch run/gui/GraphicalGo.java
+- To play Go in command line, launch run/console/RunConsole.java
 
 #Disclaimer
 Project developed during a university course focusing on Java core concepts and Project management.
