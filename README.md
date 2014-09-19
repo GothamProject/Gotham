@@ -1,7 +1,7 @@
 Gotham
 ======
 
-A Java Go game with ancient rules integration, SGF support and AI mechanics
+A Java Go game with [ancient rules](http://en.wikipedia.org/wiki/Rules_of_Go) integration, [SGF](http://en.wikipedia.org/wiki/Smart_Game_Format) support and [AI](http://en.wikipedia.org/wiki/Negamax) mechanics
 
 #Usage
 - To play Go in a graphical interface, launch run/gui/GraphicalGo.java
