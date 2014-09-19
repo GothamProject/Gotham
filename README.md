@@ -9,4 +9,4 @@ A Java Go game with ancient rules integration, SGF support and AI mechanics
 
 #Disclaimer
 Project developed during a university course focusing on Java core concepts and Project management.
-It can be buggy if playing against a computer on Hard difficulty. The MinMax algorithm seems to be 
+It can be buggy if playing against a computer on Hard difficulty. The MinMax algorithm also seems to be quite slow.
