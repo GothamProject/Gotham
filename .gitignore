@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/*
+.svn/*
+bin/*
+doc/*
+src/training/*
+program_datas/*
+*/.svn/*
+*/*/.svn/*
+*/*/*/.svn/*
+*/*/*/*/.svn/*
+*/*/*/*/*/.svn/*
+go-log.html
