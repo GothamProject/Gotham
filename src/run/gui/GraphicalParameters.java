@@ -39,6 +39,8 @@ public class GraphicalParameters {
 
 	public static final String BACKGROUND_IMAGE_PATH_NAME = "img/Wood-Pattern-Background.jpg";
 	
+	public static final String ICON_PATH = "img/logo.png";
+	
 	public static final String SMALL_GOBAN = "img/size_9.png";
 	public static final String MEDIUM_GOBAN = "img/size_13.png";
 	public static final String LARGE_GOBAN = "img/size_19.png";

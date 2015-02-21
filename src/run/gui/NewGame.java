@@ -307,9 +307,9 @@ public class NewGame extends JPanel {
 		 */
 		komiButtonGroup = new ButtonGroup();
 
-		smallKomiButton = new JRadioButton("5,5");
-		mediumKomiButton = new JRadioButton("6,5");
-		largeKomiButton = new JRadioButton("7,5");
+		smallKomiButton = new JRadioButton("5.5");
+		mediumKomiButton = new JRadioButton("6.5");
+		largeKomiButton = new JRadioButton("7.5");
 
 //		smallKomiButton.setOpaque(false);
 //		mediumKomiButton.setOpaque(false);

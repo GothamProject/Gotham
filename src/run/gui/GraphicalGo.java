@@ -14,7 +14,7 @@ public class GraphicalGo extends JFrame {
 
 	public GraphicalGo(String title) {
 		super(title);
-		setIconImage(new ImageIcon("./img/logo.png").getImage());
+		setIconImage(new ImageIcon(GraphicalParameters.ICON_PATH).getImage());
 
 		mainMenu = new MainMenu();
 
@@ -31,6 +31,6 @@ public class GraphicalGo extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		new GraphicalGo("Go");
+		new GraphicalGo("Gotham");
 	}
 }
